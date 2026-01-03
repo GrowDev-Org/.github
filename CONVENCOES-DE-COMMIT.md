@@ -20,3 +20,6 @@ Evite mensagens genéricas como:
 - "ajustes"
 - "teste"
 - "alterações"
+
+---
+GrowDev — crescer juntos é o projeto 🌱
