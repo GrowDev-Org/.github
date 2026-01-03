@@ -60,3 +60,6 @@ Abra o PR
 Descreva o que foi feito
 
 Pronto. Agora é só aguardar o review.
+
+---
+GrowDev — crescer juntos é o projeto 🌱
