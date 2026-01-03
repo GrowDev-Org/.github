@@ -2,7 +2,9 @@
 
 Para manter a organização, usamos cada canal com um propósito:
 
-## 🐙 GitHub
+---
+
+### 🐙 GitHub
 
 Usar para:
 
@@ -15,7 +17,7 @@ Usar para:
 
 ---
 
-## 💻 Discord
+### 💻 Discord
 
 Usar para:
 
@@ -25,7 +27,7 @@ Usar para:
 
 ---
 
-## 📱 WhatsApp
+### 📱 WhatsApp
 
 Usar para:
 
@@ -34,3 +36,6 @@ Usar para:
 - Emergências
 
 Evite discussões técnicas profundas aqui.
+
+---
+GrowDev — crescer juntos é o projeto 🌱
